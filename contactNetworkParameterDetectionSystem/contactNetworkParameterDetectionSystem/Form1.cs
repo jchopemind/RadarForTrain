@@ -20,6 +20,7 @@ namespace contactNetworkParameterDetectionSystem
         private void button1_Click(object sender, EventArgs e)
         {
             button1.Text = "取消";
+            checkBox1.Text = "数学";
         }
     }
 }
